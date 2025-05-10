@@ -1,0 +1,9 @@
+{
+    "item.minecraft.bow":"Nambu Type 14 (大正14年)",
+    "entity.minecraft.arrow":"Bullet",
+    "entity.minecraft.spectral_arrow":"White Phosphorous Bullet",
+    "item.minecraft.arrow":"8×22mm Nambu Ammo",
+    "item.minecraft.spectral_arrow":"White Phosphorous 8×22mm Nambu Ammo",
+    "subtitles.entity.arrow.hit":"Shot hits",
+    "subtitles.entity.arrow.shoot":"Shot fired"
+}

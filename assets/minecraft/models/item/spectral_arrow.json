@@ -1,0 +1,7 @@
+{
+	"credit": "Made with Blockbench",
+	"parent":"item/arrow",
+	"textures": {
+		"0": "item/spectral_arrow"
+	}
+}
