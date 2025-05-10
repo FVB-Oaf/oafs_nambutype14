@@ -2,6 +2,6 @@
 	"credit": "Made with Blockbench",
 	"parent":"item/arrow",
 	"textures": {
-		"0": "item/_oaf/nambu_round_spectral"
+		"0": "item/_oaf/nambu_round_tipped"
 	}
 }
